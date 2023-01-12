@@ -1,0 +1,53 @@
+body{
+    background-color: dodgerblue;
+}
+h2{
+    text-decoration: underline;
+}
+p{
+    font-size: 20px;
+}
+UL{
+    font-style: oblique;
+}
+a{
+    color: darkmagenta;
+}
+#lo{
+    color: darkgray;
+}
+.white{
+    font-family: 'Times New Roman', Times, serif;
+color: saddlebrown;
+}
+#photo{
+    font-family: 'Courier New', Courier, monospace;
+font-size: 18px;
+}
+iframe{
+    padding-top: 25px;
+    margin-left: 85px;
+}
+#div1{
+    background-color: goldenrod;
+    position: static;
+}
+#div2{
+    background-color: lavender;
+position: static;
+}
+#div3{ background-color: violet;
+
+    }
+#div4{background-color: tan;
+}
+form{
+    padding: 10px;
+    background-color: white;
+    border-style: solid;
+}
+input[type=button] {
+    color: black;
+    background-color: hotpink;
+    padding: 5px;
+}
